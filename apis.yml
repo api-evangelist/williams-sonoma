@@ -33,7 +33,7 @@ description: >-
   for e-commerce, registry services, and supply chain management.
 url: https://raw.githubusercontent.com/api-evangelist/williams-sonoma/refs/heads/main/apis.yml
 type: Index
-position: Consumer
+position: Consuming
 access: 3rd-Party
 tags:
   - Retail
