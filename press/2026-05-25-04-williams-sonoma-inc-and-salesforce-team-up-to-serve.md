@@ -1,7 +1,9 @@
 ---
 title: Williams-Sonoma, Inc. and Salesforce Team Up to Serve ...
 url: https://www.salesforce.com/news/press-releases/2023/09/12/williams-sonoma-salesforce-customer/
-date: '2026-05-25'
+published: '2023-09-12'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Williams-Sonoma" press release artificial intelligence'
 position: 4
 source: serpapi-google

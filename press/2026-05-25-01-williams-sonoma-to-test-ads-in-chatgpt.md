@@ -1,7 +1,9 @@
 ---
 title: Williams-Sonoma to test ads in ChatGPT
 url: https://www.retaildive.com/news/williams-sonoma-tests-ads-chatgpt-generative-ai-product-discovery/812107/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Williams-Sonoma" press release artificial intelligence'
 position: 1
 source: serpapi-google

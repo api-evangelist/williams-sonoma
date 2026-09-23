@@ -1,7 +1,9 @@
 ---
 title: Williams-Sonoma partners with OpenAI
 url: https://businessofhome.com/articles/williams-sonoma-partners-with-openai
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Williams-Sonoma" press release artificial intelligence'
 position: 3
 source: serpapi-google
